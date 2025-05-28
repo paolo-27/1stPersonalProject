@@ -34,24 +34,6 @@ A console-based C++ application that allows users to manage personal lending rec
 * `accounts.txt` - Stores user credentials
 * `USERNAME.txt` - Stores debt records for each user (created dynamically)
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-Make sure you have a C++ compiler like `g++` installed.
-
-### Compilation
-
-```bash
-g++ -o debt_manager main.cpp
-```
-
-### Running
-
-```bash
-./debt_manager
-```
-
 ## 💡 Usage
 
 Upon launching the program, users can:
