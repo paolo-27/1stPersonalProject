@@ -1,7 +1,3 @@
-Thanks for sharing the code! Here's a professional and clear `README.md` file for your GitHub project:
-
----
-
 # Debt Management System
 
 A console-based C++ application that allows users to manage personal lending records. The system supports account registration, debt tracking, and data persistence through file handling.
